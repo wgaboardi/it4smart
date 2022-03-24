@@ -1,20 +1,20 @@
 # Landing Page - 2022
 [![NPM](https://img.shields.io/npm/l/react)]
 
-# Sobre o projeto
-WebSite com landing page usando recursos do HTML5 e CSS
+# About the Project
+WebSite with landing page using HTML5 and CSS resources
 
 
-# Tecnologias utilizadas
+# Technologies used
 - HTML5 
 - CSS
 
 ```bash
-# clonar repositório
+# clone repository
 git clone https://github.com/wgaboardi/landingpage
 ```
 
-# Autor
+# Author
 Wellington Luiz Gaboardi
 2022
 https://www.linkedin.com/in/wgaboardi
