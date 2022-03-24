@@ -13,6 +13,8 @@ WebSite with landing page using HTML5 and CSS resources
 # clone repository
 git clone https://github.com/wgaboardi/landingpage
 ```
+# Netlify (production server)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d5d6f58-758f-43f8-a0f1-9d4b57ede296/deploy-status)](https://app.netlify.com/sites/it4smart/deploys)
 
 # Author
 Wellington Luiz Gaboardi
